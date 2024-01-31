@@ -47,7 +47,7 @@ const page = () => {
   return (
     <>
     <div>
-      <h1 className='bg-slate-900 p-5 font-bold text-center text-cyan-50 text-5xl'>Priti's To-Do List</h1>
+      <h1 className='bg-slate-900 p-5 font-bold text-center text-cyan-50 text-5xl'>My To-Do List</h1>
     </div>
     <form onSubmit={submitHandler}>
       <input
